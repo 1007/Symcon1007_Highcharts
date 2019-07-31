@@ -1,0 +1,14 @@
+{
+	"id": "{445E2098-36C3-DDDF-561D-B541327D07CB}",
+	"name": "Highcharts",
+	"type": 3,
+	"vendor": "",
+	"aliases": 
+	[
+		"Highcharts"
+	],
+	"parentRequirements": [],
+	"childRequirements": [],
+	"implemented": [],
+	"prefix": "HCH"
+}
